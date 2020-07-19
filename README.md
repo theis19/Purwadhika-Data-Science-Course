@@ -10,14 +10,14 @@ This topic discusses about the fundamentals of programming with [Python](https:/
 **2. Data Science**
 
 This topic discusses about data query, data wrangling, data visualization, data analysis, how to use APIs and dashboard development. There are so many libraries and applications used for this topic. The libraries and applications are listed below.
-- [numpy](https://numpy.org)
-- [pandas](https://pandas.pydata.org)
-- [matplotlib](https://matplotlib.org)
-- [seaborn](https://seaborn.pydata.org)
+- [Numpy](https://numpy.org)
+- [Pandas](https://pandas.pydata.org)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
 - [SQL](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
-- [plotly](https://plot.ly/python/reference/)
-- [dash](https://dash.plot.ly)
-- [tableau](https://www.tableau.com)
+- [Plotly](https://plot.ly/python/reference/)
+- [Dash](https://dash.plot.ly)
+- [Tableau](https://www.tableau.com)
 
 **3. Machine Learning**
 
